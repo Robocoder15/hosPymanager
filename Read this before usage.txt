@@ -1,0 +1,12 @@
+1. Password system to avoid data handling by unauthorized people
+
+2. Patient ID for recognising
+
+3. I have created a "idgen.py" for random id generation that you can use 
+   if you are bored of thinking unique random IDs for patients, doctors
+
+4. More than 3 times incorrect password then the program breaks
+
+5. Run the "main.py" in the "python.exe" rather than in IDLE
+
+6. Run the "idgen.py" in the IDLE

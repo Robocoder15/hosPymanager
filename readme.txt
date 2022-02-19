@@ -1,0 +1,2 @@
+Hello, Kapil here... This is a hospital management system. I have created this for replacing the boring,  lengthy paper-work. I got this idea for creating from my experience, once while i had gone to take some sort of dose in the hospital the staff there already had a big line of people. The paper work was slow which made me stand there for almost 2 hours since then I was strongly against paper work in work places and I sat to make this.
+The password is set to 123445 you can change it in the code
